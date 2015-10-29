@@ -23,7 +23,7 @@ LDLIBS     = -lm
 
 .PHONY: edit clean veryclean
 
-target    = HW4V4
+target    = HW04
 
 $(target) : $(target).c
 
